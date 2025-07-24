@@ -93,6 +93,7 @@ include("gmsave.lua")
 	cause errors.
 -----------------------------------------------------------]]
 
+include ("extensions/entity_iter.lua")
 include ("extensions/file.lua")
 include ("extensions/angle.lua")
 include ("extensions/debug.lua")
